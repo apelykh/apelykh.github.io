@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - apelykh
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - apelykh/hand-to-diffusion
+  - apelykh/audio-matcher
+  - apelykh/substituted-words
+  - apelykh/42-RT
+  - apelykh/42-minishell
